@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @brunodixini
 - 👀 I’m interested in software engineering/software development
-- 🌱 I’m currently learning C++/Java
+- 🌱 I’m currently learning more of C++/Java
 - 📫 How to reach me: https://www.linkedin.com/in/brunodixini/
